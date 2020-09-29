@@ -1,0 +1,34 @@
+{
+  "name": "Good News",
+  "logoURI": "ipfs://QmbouuUamW9Dkzy9zStTYAgd73pXCZtE4kVV18Y3yupquz",
+  "keywords": [
+    "audited",
+    "verified",
+    "tokens"
+  ],
+  "tags": {
+    "tokens": {
+      "name": "Tokens",
+      "description": "Tokens that verified by Women In Move Solutions"
+    }
+  },
+  "timestamp": "2020-09-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x115170eb12107c377046eaed6e0d7179505ce6d1",
+      "symbol": "WIMT",
+      "name": "WIMT",
+      "decimals": 0,
+      "logoURI": "ipfs://QmYfTMJo3TwRNmu47sNhg15XHAYLDrGi483KpvJVvfPfbc",
+      "tags": [
+        "wimt"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
