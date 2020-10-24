@@ -28,7 +28,7 @@
     {
       "chainId": 1,
       "address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
-      "name”: "CACHE Gold".
+      "name”: "CACHE Gold",
       "symbol”: "CGT",
       "decimals": 8,
       "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5238462E7235c7B62811567E63Dd17d12C2EAA0/logo.png"
