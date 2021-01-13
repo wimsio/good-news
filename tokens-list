@@ -32,11 +32,19 @@
       "symbol": "CGT",
       "decimals": 8,
       "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5238462E7235c7B62811567E63Dd17d12C2EAA0/logo.png"
-    }
+    },
+    {
+      "chainId": 1,
+      "address": "0xaac111447138f8e44463b526875e762fbf1c504f",
+      "decimals": 18,
+      "logoURI": "https://drive.google.com/file/d/1w_0Klk2v5WOt359eKGxdblex2fbcYxMR/view",
+      "name": "AlzheimerCoin",
+      "symbol": "ALZ"
+     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 1
   }
   
